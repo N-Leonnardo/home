@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.7f1be941.css",
+    "main.js": "/home/static/js/main.fdf234bb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/home/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/avatar.JPG": "/home/static/media/avatar.eed4786db35fa85c5e90.JPG",
+    "static/media/mydriverapp-background.jpg": "/home/static/media/mydriverapp-background.b73cce82e66a4582737b.jpg",
+    "static/media/myDriverApp.svg": "/home/static/media/myDriverApp.1df196369ea15a4a69e970956ae801ea.svg",
+    "static/media/logo.svg": "/home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/home/index.html",
+    "main.7f1be941.css.map": "/home/static/css/main.7f1be941.css.map",
+    "main.fdf234bb.js.map": "/home/static/js/main.fdf234bb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/home/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1be941.css",
+    "static/js/main.fdf234bb.js"
+  ]
+}
